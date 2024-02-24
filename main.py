@@ -1,8 +1,5 @@
 from methods import *
 import sys
-import os
-import json
-import requests
 
 # On récupère les chemins des fichiers à ajouter à la liste d'attente de téléchargement
 files_paths= sys.argv[1:]
